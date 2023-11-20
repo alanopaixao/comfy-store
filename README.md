@@ -8,8 +8,6 @@
 
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwindcss,ts,html,css,js,sass,styledcomponents,redux,nodejs,prisma,postgresql)](https://skillicons.dev)
-
 # comfy-store
 
 Site frontend para o desafio Javascript do [JohnSmilga](https://johnsmilga.com/). Este é o projeto final do curso **Javascript Tutorial and Projects Course**, uma loja de móveis funcional com a opções de filtrar e adicionar/remover itens do carrinho. Neste projeto não é possível realizar login e pagaento de compras.
