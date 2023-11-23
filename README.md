@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/status-in_progress-yellow" />
+  <img src="https://img.shields.io/badge/completed-green" />
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-white?&logo=HTML5	&logoColor=orange" />
